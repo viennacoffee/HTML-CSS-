@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-position: bottom;
+  background-size: cover;
+}
+.header-text {
+  padding: 20px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+.content1 {
+  border-bottom: solid 1px gainsboro;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+
+.content2 {
+  border-bottom: solid 1px gainsboro;
+  padding-bottom: 30px ;
+  margin-bottom: 30px;
+}
+
+.content3 {
+  border-bottom: solid 1px gainsboro;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+
+.content4 {
+  border-bottom: solid 1px gainsboro;
+  padding-bottom: 30px ;
+}
+
